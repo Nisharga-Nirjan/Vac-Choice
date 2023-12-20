@@ -1,0 +1,8 @@
+While seeding the migration files, follow the order below:
+    1. admin
+    2. external_db
+    3. hospital
+    4. vaccine_price
+    5. users
+    6. inventory
+    7. vaccine_history

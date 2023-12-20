@@ -1,0 +1,1 @@
+Vac-Choice is a website designed to make users choose a vaccine of their choice from the hospitals the website has a contract with followed by the independence of choosing the hospitals & dates.

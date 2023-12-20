@@ -38,3 +38,8 @@ Vac-Choice is a web-based system designed to facilitate the vaccine request proc
 - Admin can search for hospitals based on their name or hospital ID.
 - Admin can add hospitals and details affiliated with the system.
 - Admin can modify vaccine amounts and available dates for hospitals.
+
+
+# Project Documentation
+
+- [Laravel Info](LARAVEL.MD)

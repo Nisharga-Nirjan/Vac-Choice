@@ -42,4 +42,4 @@ Vac-Choice is a web-based system designed to facilitate the vaccine request proc
 
 # Project Documentation
 
-- [Laravel Info](LARAVEL.MD)
+- [Laravel Info](LARAVEL.md)
